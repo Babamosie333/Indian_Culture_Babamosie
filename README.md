@@ -11,11 +11,12 @@
 
 ---
 
+<p align="center">
+  <video src="https://www.image2url.com/r2/default/videos/1786634609148-0a25b9ca-cef2-46ce-8af6-6229e305caa2.mp4" width="100%" autoplay muted loop playsinline controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
 
-<div style="width=100%; height=100%">
-  <img src="https://i.ibb.co/ycynsnsT/Whats-App-Image-2026-08-13-at-12-05-07.jpg" alt="Image 1">
-
-</div>
 
 
 ## 📖 Table of Contents
