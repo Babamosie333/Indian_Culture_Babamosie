@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <video src="https://www.image2url.com/r2/default/videos/1786634609148-0a25b9ca-cef2-46ce-8af6-6229e305caa2.mp4" width="100%" autoplay muted loop playsinline controls>
+  <video src="https://www.image2url.com/r2/default/videos/1786634791804-cc518e91-cf18-4162-92a5-59a3506d396b.mp4"> width="100%" autoplay 
     Your browser does not support the video tag.
   </video>
 </p>
