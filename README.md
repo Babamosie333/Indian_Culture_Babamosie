@@ -10,12 +10,13 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 
 ---
-
-<p align="center">
-  <video src="/images/out.mp4" width="100%" autoplay muted loop >
+<div class="hero-video">
+  <video autoplay muted loop playsinline>
+    <source src="./images/out.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
-</p>
+</div>
+
 
 
 
