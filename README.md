@@ -10,16 +10,10 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 
 ---
-<div class="hero-video">
-  <video autoplay muted loop playsinline>
-    <source src="./images/out.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-  </video>
-</div>
 
-[![Preview](./images/preview.webp)](https://indian-culture-babamosie.vercel.app)
+## Demo Video
 
-
+[![Watch the demo video](./images/og-image.jpg)](https://www.image2url.com/r2/default/videos/1786634609148-0a25b9ca-cef2-46ce-8af6-6229e305caa2.mp4)
 
 
 ## 📖 Table of Contents
