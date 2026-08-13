@@ -12,10 +12,10 @@
 ---
 
 
-
+<div style="width=100%; height=100%">
   <img src="https://i.ibb.co/ycynsnsT/Whats-App-Image-2026-08-13-at-12-05-07.jpg" alt="Image 1">
 
-
+</div>
 
 
 ## 📖 Table of Contents
