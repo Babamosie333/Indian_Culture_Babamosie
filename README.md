@@ -13,13 +13,7 @@
 
 <div style="max-height: 400px; width: 100%; overflow-y: auto; border: 1px solid #ccc; padding: 15px; border-radius: 8px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; background-color: rgba(0,0,0,0.02);">
 
-  <img src="https://i.ibb.co/8ggytmtn/h1.jpg" alt="Image 1" style="width: 100%; height: auto; border-radius: 4px;">
-  
-  <img src="https://i.ibb.co/wrb0n9xQ/p1.jpg" alt="Image 2" style="width: 100%; height: auto; border-radius: 4px;">
-  
-  <img src="https://i.ibb.co/XxLhDyz4/p3.jpg" alt="Image 3" style="width: 100%; height: auto; border-radius: 4px;">
-  
-  <img src="https://i.ibb.co/Mx7qbp09/g3.jpg" alt="Image 4" style="width: 100%; height: auto; border-radius: 4px;">
+  <img src="https://i.ibb.co/ycynsnsT/Whats-App-Image-2026-08-13-at-12-05-07.jpg" alt="Image 1" style="width: 100%; height: auto; border-radius: 4px;">
 
 </div>
 
