@@ -17,6 +17,8 @@
   </video>
 </div>
 
+[![Preview](./images/preview.webp)](https://indian-culture-babamosie.vercel.app)
+
 
 
 
