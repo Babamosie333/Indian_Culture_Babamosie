@@ -11,7 +11,7 @@
 
 ---
 
-## Demo Video
+## Demo Video (Click The Preview Image)
 
 [![Watch the demo video](./images/og-image.jpg)](https://www.image2url.com/r2/default/videos/1786634609148-0a25b9ca-cef2-46ce-8af6-6229e305caa2.mp4)
 
