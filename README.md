@@ -11,11 +11,11 @@
 
 ---
 
-<div style="max-height: 400px; width: 100%; overflow-y: auto; border: 1px solid #ccc; padding: 15px; border-radius: 8px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; background-color: rgba(0,0,0,0.02);">
 
-  <img src="https://i.ibb.co/ycynsnsT/Whats-App-Image-2026-08-13-at-12-05-07.jpg" alt="Image 1" style="width: 100%; height: auto; border-radius: 4px;">
 
-</div>
+  <img src="https://i.ibb.co/ycynsnsT/Whats-App-Image-2026-08-13-at-12-05-07.jpg" alt="Image 1" style="border-radius: 4px;">
+
+
 
 
 ## 📖 Table of Contents
