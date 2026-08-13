@@ -1127,7 +1127,7 @@ footer {
 
 /* Tricolor trail cursor */
 body, body * {
-    cursor: none;
+    cursor: auto;
 }
 
 .trail-dot {
